@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Hello, world!</h1>
+
+<button type="button" onclick="alert('Hello, I will learn HTML! I got this button in a guide then I changed it.')">get something</button>
+
+<button type="button" onclick="prompt('Write something.')">prompt</button>
+
+<button type="button" onclick="confirm('Are you sure?')">confirm</button>
+
+I'm trying :)
+
+</body>
+</html>
